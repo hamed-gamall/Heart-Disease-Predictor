@@ -122,7 +122,7 @@ def main():
             prob = result['probability']
 
             with columns[idx]:
-                st.subheader(f"🔵 {model_name}")
+                st.subheader(f"🔹 {model_name}")
                 if pred == 1:
                     st.error(f"Result: Positive for Heart Disease\nConfidence: {prob*100:.2f}%")
                 else:

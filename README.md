@@ -50,8 +50,13 @@ This project provides early insights for patients and supports data-driven medic
 - Evaluation (Accuracy, Precision, Recall, F1-score)
 
 ---
+### 🌐 6. Deployment
+- Interactive dashboards using:
+  - ✅ Streamlit [👉 Try App NOW](https://heart-disease-predictio.streamlit.app/)
+ 
 
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+

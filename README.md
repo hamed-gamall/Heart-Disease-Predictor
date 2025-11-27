@@ -5,7 +5,7 @@ A simple machine learning project that predicts whether a person is likely to ha
 ---
 
 ## 📸 Project Preview
-![Heart Disease](./image.jpg)
+![Heart Disease](./image1.png)
 
 ---
 

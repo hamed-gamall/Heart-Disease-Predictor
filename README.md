@@ -1,6 +1,8 @@
 # ❤️ Heart Disease Predictor
 
-A simple machine learning project that predicts whether a person is likely to have heart disease based on key medical features.
+A powerful machine learning project that analyzes patient medical data to predict heart disease risk.  
+It identifies key patterns like age, chest pain type, blood pressure, cholesterol, and heart rate to detect high-risk individuals.  
+This project provides early insights for patients and supports data-driven medical decision making.
 
 ---
 
